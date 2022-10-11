@@ -1,4 +1,4 @@
-# Apollo-Documentation-JWC---GTM---GA4---Apollo-Testing---New-Ecomm---V2
+# Apollo-Documentation-JWC---GTM---GA4---V2
 
 <h1 id="overview"><strong>Overview</strong></h1>
 <p>This repository contains the necessary specifications to build an event driven data layer and install GTM on your web application.</p>
